@@ -1,0 +1,719 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 434,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DqLPAAAAMAAJ",
+      "etag": "wHYapAMEz4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DqLPAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hobbit czyli Tam i z powrotem",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000004593617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DqLPAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DqLPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=DqLPAAAAMAAJ&q=Hobbit&dq=Hobbit&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=DqLPAAAAMAAJ&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_czyli_Tam_i_z_powrotem.html?hl=&id=DqLPAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DqLPAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YyXoAAAACAAJ",
+      "etag": "/2ZxOzRnLoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YyXoAAAACAAJ",
+      "volumeInfo": {
+        "title": "Hobbit czyli Tam i z powrotem",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8320717507"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788320717501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Baggins, Bilbo (Fictitious character)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YyXoAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YyXoAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=YyXoAAAACAAJ&dq=Hobbit&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=YyXoAAAACAAJ&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_czyli_Tam_i_z_powrotem.html?hl=&id=YyXoAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YyXoAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KY0BDObXftUC",
+      "etag": "mVwoH3/eFpM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KY0BDObXftUC",
+      "volumeInfo": {
+        "title": "Exploring J.R.R. Tolkien's The Hobbit",
+        "authors": [
+          "Corey Olsen"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012",
+        "description": "The host of the popular podcast The Tolkien Professor provides an in-depth tour of The Hobbit, detailing the secrets and stories behind the characters within the prelude to The Lord of the Rings. 30,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547739465"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "054773946X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KY0BDObXftUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KY0BDObXftUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=KY0BDObXftUC&printsec=frontcover&dq=Hobbit&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=KY0BDObXftUC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploring_J_R_R_Tolkien_s_The_Hobbit.html?hl=&id=KY0BDObXftUC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KY0BDObXftUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "John D. Rateliff, author of The History of the Hobbit Exploring J.R.R. Tolkien s The Hobbit moves step by step through the text, explaining references, pointing out themes and clearly and carefully showing how Tolkien s book although one of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hFfhrCWiLSMC",
+      "etag": "ykOg+KbSLig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hFfhrCWiLSMC",
+      "volumeInfo": {
+        "title": "The Hobbit, Or, There and Back Again",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publishedDate": "1982",
+        "description": "Chronicles the adventures of the inhabitants of Middle-earth and Bilbo Baggins, the hobbit who brought home to The Shire the One Ring of Power",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345339683"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345339681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2649,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hFfhrCWiLSMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hFfhrCWiLSMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=hFfhrCWiLSMC&dq=Hobbit&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=hFfhrCWiLSMC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit_Or_There_and_Back_Again.html?hl=&id=hFfhrCWiLSMC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hFfhrCWiLSMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The adventures of the well-to-do hobbit, Bilbo Baggins, who lived happily in his comfortable home until a wandering wizard granted his wish."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QMZ-SpsAuasC",
+      "etag": "QS2iWL3H2JU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QMZ-SpsAuasC",
+      "volumeInfo": {
+        "title": "The Christian World of The Hobbit",
+        "authors": [
+          "Devin Brown"
+        ],
+        "publisher": "Abingdon Press",
+        "publishedDate": "2012",
+        "description": "Reveals the Christian elements that lie at the center of \"The Hobbit,\" explaining how Tolkien incorporated his faith into his classic literary work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781426749490"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "142674949X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QMZ-SpsAuasC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QMZ-SpsAuasC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=QMZ-SpsAuasC&printsec=frontcover&dq=Hobbit&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=QMZ-SpsAuasC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Christian_World_of_The_Hobbit.html?hl=&id=QMZ-SpsAuasC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QMZ-SpsAuasC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reveals the Christian elements that lie at the center of &quot;The Hobbit,&quot; explaining how Tolkien incorporated his faith into his classic literary work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8ef3-s6fixIC",
+      "etag": "9Q6q9kLEN3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8ef3-s6fixIC",
+      "volumeInfo": {
+        "title": "I Am in Fact a Hobbit",
+        "subtitle": "An Introduction to the Life and Works of J. R. R. Tolkien",
+        "authors": [
+          "Perry C. Bramlett"
+        ],
+        "publisher": "Mercer University Press",
+        "publishedDate": "2003",
+        "description": "John Ronald Reuel Tolkien (1892-1973) was a brilliant writer who continues to leave his imaginative imprint on the mind and hearts of readers. He was once called the \"creative equivalent of a people,\" and for more than sixty years his Middle-earth tales have captivated and delighted readers of all ages from all over the world. The Hobbit has long been recognized as a children's fantasy classic, and the heroic romance the Lord of the Rings has been called the most influential story of all time. These stories have sold over 150 million copies worldwide and have been translated into over forty languages, and they, along with works such as the Silmarillion and the History of Middle-Earth, have convinced scores of readers and critics that Tolkien is the master writer of fantasy. Whether you've been a fan for years or you've just recently been hooked by the blockbuster Lord of the Rings movies, \"I Am in Fact a Hobbit\" is an excellent starting point into the life and work of J. R. R. Tolkien. Book jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0865548943"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780865548947"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8ef3-s6fixIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8ef3-s6fixIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=8ef3-s6fixIC&pg=PA31&dq=Hobbit&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=8ef3-s6fixIC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Am_in_Fact_a_Hobbit.html?hl=&id=8ef3-s6fixIC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/I_Am_in_Fact_a_Hobbit-sample-epub.acsm?id=8ef3-s6fixIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/I_Am_in_Fact_a_Hobbit-sample-pdf.acsm?id=8ef3-s6fixIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8ef3-s6fixIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sinclair Lewis&#39;s young son Michael (aged seven) called the \u003cb\u003eHobbit\u003c/b\u003e &quot;an adorable \u003cbr\u003e\nstory&quot; (for an advertising blurb for Houghton Mifflin), and Tolkien provided a \u003cbr\u003e\ndrawing of a \u003cb\u003ehobbit\u003c/b\u003e for Houghton Mifflin&#39;s fall advertising push, which was printed \u003cbr\u003e\nin&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N_0VhzQKIIAC",
+      "etag": "DXnT0SmT+p0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N_0VhzQKIIAC",
+      "volumeInfo": {
+        "title": "Finding God in the Hobbit",
+        "authors": [
+          "Jim Ware"
+        ],
+        "publisher": "Tyndale House Publishers, Inc.",
+        "publishedDate": "2006",
+        "description": "Indulges readers with an exploration of the spiritual significance of J.R.R. Tolkien's famous children's classic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1414305966"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781414305967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.0.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N_0VhzQKIIAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N_0VhzQKIIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=N_0VhzQKIIAC&pg=PA119&dq=Hobbit&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=N_0VhzQKIIAC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Finding_God_in_the_Hobbit.html?hl=&id=N_0VhzQKIIAC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Finding_God_in_the_Hobbit-sample-pdf.acsm?id=N_0VhzQKIIAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N_0VhzQKIIAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H8ON-dTgQQYC",
+      "etag": "fy5oc5T9T38",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H8ON-dTgQQYC",
+      "volumeInfo": {
+        "title": "The Hobbit",
+        "subtitle": "An Unexpected Journey : Visual Companion",
+        "authors": [
+          "Jude Fisher"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012",
+        "description": "A visual companion to the film \"The Hobbit: An Unexpected Journey\" offers insights into the world of Middle-Earth and includes character profiles, bestiaries, and notes on the places of Middle-Earth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547898568"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547898568"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H8ON-dTgQQYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H8ON-dTgQQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=H8ON-dTgQQYC&printsec=frontcover&dq=Hobbit&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=H8ON-dTgQQYC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=H8ON-dTgQQYC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H8ON-dTgQQYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A visual companion to the film &quot;The Hobbit: An Unexpected Journey&quot; offers insights into the world of Middle-Earth and includes character profiles, bestiaries, and notes on the places of Middle-Earth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CSUeAQAAIAAJ",
+      "etag": "JfjW+vwx8Vc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CSUeAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Hobbit",
+        "subtitle": "A Journey Into Maturity",
+        "authors": [
+          "William Howard Green"
+        ],
+        "publisher": "Macmillan Reference USA",
+        "publishedDate": "1995",
+        "description": "Describes the historical and literary background of \"The Hobbit,\" and offers an interpretation of its major themes",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105009797320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CSUeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CSUeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=CSUeAQAAIAAJ&q=Hobbit&dq=Hobbit&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=CSUeAQAAIAAJ&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=CSUeAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CSUeAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Describes the historical and literary background of &quot;The Hobbit,&quot; and offers an interpretation of its major themes"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KUSn4G6eiCUC",
+      "etag": "Zks6uQqLb/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KUSn4G6eiCUC",
+      "volumeInfo": {
+        "title": "A Hobbit Devotional",
+        "subtitle": "Bilbo Baggins and the Bible",
+        "authors": [
+          "Ed Strauss"
+        ],
+        "publisher": "Barbour Publishing",
+        "publishedDate": "2012-09-01",
+        "description": "If you enjoy J. R. R. Tolkien--even if you're new to his classic stories--you'll love A Hobbit Devotional featuring 60 humorous, challenging, and encouraging devotionals. Soon to be a major motion picture, The Hobbit has fascinated readers for more than 70 years. Now, this tale of humble folk who overcome fear, discouragement, and despair through steadfastness, courage, and hope forms the basis of a brand-new devotional book. Each reading sketches a scene from The Hobbit, relates it to a contemporary life situation you might experience yourself, and brings in the teaching of a relevant Bible story or verse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781620290880"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "162029088X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KUSn4G6eiCUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KUSn4G6eiCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=KUSn4G6eiCUC&pg=PT215&dq=Hobbit&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=KUSn4G6eiCUC&dq=Hobbit&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Hobbit_Devotional.html?hl=&id=KUSn4G6eiCUC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/A_Hobbit_Devotional-sample-epub.acsm?id=KUSn4G6eiCUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KUSn4G6eiCUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The \u003cb\u003eHobbit\u003c/b\u003e, chapter 1. 49. The \u003cb\u003eHobbit\u003c/b\u003e, chapter 10. 50. Ibid. 51. The Fellowship of \u003cbr\u003e\nthe Ring, book 1, chapter 2. 52. The \u003cb\u003eHobbit\u003c/b\u003e, chapter 11. 53. The Annotated \u003cbr\u003e\n\u003cb\u003eHobbit\u003c/b\u003e, appendix A. 54. Unfinished Tales, “The Quest of Erebor.” 55. Ibid. 56."
+      }
+    }
+  ]
+}
