@@ -1,3 +1,4 @@
+import os
 import json
 import requests
 import pprint
@@ -6,7 +7,8 @@ from flask_restplus import reqparse
 from flask_restplus import Resource
 
 
-
+path = os.getcwd()
+path_to_file = os.path.join(path, 'db_replacement.json')
 
 class Books(Resource):
     parser = reqparse.RequestParser()
@@ -18,7 +20,7 @@ class Books(Resource):
     def get(self, book_id=None):
         args = self.parser.parse_args()
         
-        with open('./db_replacement.json', 'r', encoding='utf-8') as _file:
+        with open(path_to_file, 'r', encoding='utf-8') as _file:
             db = json.load(_file)
         
         if book_id:
@@ -83,7 +85,7 @@ class DBupdate(Resource):
         q = args['q']
         update = requests.get(f'https://www.googleapis.com/books/v1/volumes?q={q}').json()
         try:
-            with open('./db_replacement.json', 'r', encoding='utf-8') as _file:
+            with open(path_to_file, 'r', encoding='utf-8') as _file:
                 db = json.load(_file)
                 print('loaded')
         except Exception as e:
@@ -94,7 +96,7 @@ class DBupdate(Resource):
             for x,y in item.items():
                 db[item['id']] = item
 
-        with open('./db_replacement.json', 'w', encoding='utf-8') as _file:
+        with open(path_to_file, 'w', encoding='utf-8') as _file:
             json.dump(db,_file)
         
         return f'db updated with query: {q}', 200
